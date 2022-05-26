@@ -1,11 +1,20 @@
 import React from 'react';
 
+import Home from '../src/Home';
+
 function Index() {
   return (
   <div>
-    Hello
+    <Home></Home>
+    test this
+
   </div>
   );
 }
 
 export default Index; 
+
+
+
+
+      
