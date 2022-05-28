@@ -51,17 +51,17 @@ function Rightbar() {
 
                     <ListItem alignItems="flex-start">
                         <ListItemAvatar>
-                            <Avatar alt="Agnes Walker" src="https://mui.com//static/images/avatar/4.jpg" />
+                            <Avatar alt="Vikram Singh" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQffWZ2g9m3DPjemXyhvwDlloQEbTR_PI9jbw&usqp=CAU" />
                         </ListItemAvatar>
                         <ListItemText
                             primary={
                                 <Typography sx={{ display: 'block' }} component="span" variant="p" color="white">
-                                    Tara Sharma
+                                    Vikram Singh
                                 </Typography>
                             }
                             secondary={
                                 <Typography sx={{ display: 'block' }} component="span" variant="body3" fontWeight={300} color="#dfe3ee">
-                                    Sunday evening INOX chalein?
+                                    Ek mast phone suggest kar. 
                                 </Typography>
                             }
                         />
@@ -71,17 +71,17 @@ function Rightbar() {
 
                     <ListItem alignItems="flex-start">
                         <ListItemAvatar>
-                            <Avatar alt="Agnes Walker" src="https://mui.com//static/images/avatar/4.jpg" />
+                            <Avatar alt="Aman Das" src="https://mui.com/static/images/avatar/2.jpg" />
                         </ListItemAvatar>
                         <ListItemText
                             primary={
                                 <Typography sx={{ display: 'block' }} component="span" variant="p" color="white">
-                                    Tara Sharma
+                                    Aman Das
                                 </Typography>
                             }
                             secondary={
                                 <Typography sx={{ display: 'block' }} component="span" variant="body3" fontWeight={300} color="#dfe3ee">
-                                    Sunday evening INOX chalein?
+                                    Rahul ka number bhej. 
                                 </Typography>
                             }
                         />
@@ -91,12 +91,12 @@ function Rightbar() {
 
                     <ListItem alignItems="flex-start">
                         <ListItemAvatar>
-                            <Avatar alt="Agnes Walker" src="https://mui.com//static/images/avatar/4.jpg" />
+                            <Avatar alt="Priyanka Nair" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGZhdCUyMGdpcmx8ZW58MHx8MHx8&w=1000&q=80" />
                         </ListItemAvatar>
                         <ListItemText
                             primary={
                                 <Typography sx={{ display: 'block' }} component="span" variant="p" color="white">
-                                    Tara Sharma
+                                    Priyanka Nair
                                 </Typography>
                             }
                             secondary={

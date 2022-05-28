@@ -45,9 +45,9 @@ function Navbar() {
                 </Icons>
 
                 <UserBox>
-                    <Avatar alt="User-Avatar" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Matkai_Burmaster_Profile_Photo.jpg" 
+                    <Avatar alt="Ishaan Dev" src="https://st.depositphotos.com/1008939/2240/i/600/depositphotos_22408839-stock-photo-serious.jpg" 
                     onClick={(e) => setOpen(true)}/>
-                    <Typography>David Jones</Typography>
+                    <Typography>Ishaan Dev</Typography>
                 </UserBox>
             </StyledToolbar>
             
