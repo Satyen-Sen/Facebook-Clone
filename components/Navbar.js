@@ -30,7 +30,7 @@ function Navbar() {
     const [open, setOpen] = useState(false); 
 
     return (
-        <AppBar position='sticky'>
+        <AppBar position='sticky' style={{backgroundColor:"#3b5998"}}>
             <StyledToolbar>
                 <Typography variant="h4" sx={{ display: { xs:"none", sm:"block" } }}>
                     SlamBook
@@ -60,7 +60,6 @@ function Navbar() {
                 <MenuItem>My account</MenuItem>
                 <MenuItem>Logout</MenuItem>
             </Menu>
-
         </AppBar>
     );
 }; 
