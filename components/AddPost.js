@@ -35,7 +35,7 @@ function AddPost() {
         <PersonAddAlt1Icon color="error"/>
       </Stack>
 
-      <Stack direction="row" spacing={3} display="flex">
+      <Stack direction="row" spacing={3} display="flex" justifyContent="center">
         <Button variant="contained" startIcon={<DeleteIcon/>}>Cancel</Button>
         <Button variant="contained" endIcon={<SendIcon/>}>Post</Button>
       </Stack>
