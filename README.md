@@ -2,4 +2,4 @@
 
 Technology used - Next JS, MUI (Material UI), React Components
 
-Inspiration - Facebook homepage
+Inspiration - Facebook Home Page
